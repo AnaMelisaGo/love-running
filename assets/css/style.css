@@ -182,11 +182,11 @@ hr {
 }
 
 #times {
-    background: url('../images/dublin-city.webp');
+    background: url('../images/times-background.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    width:100%;
+    width: 100%;
     overflow: hidden;
 }
 
@@ -215,9 +215,8 @@ footer {
     
 }
 
-.social-networks > li  {
+.social-networks > li {
     display: inline;
-    
 }
 
 .social-networks i {
@@ -225,5 +224,4 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
-
 }
