@@ -8,3 +8,7 @@ assignees: ''
 ---
 
 As a **role**  I can **capabilities** so that **recieved benefit**.
+
+### ACCEPTANCE CRITERIA:
+  * Acceptance criteria 1:
+  * Accepcance  criteria: 3
